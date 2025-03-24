@@ -79,7 +79,6 @@ module.exports = [
       '@grafana/no-aria-label-selectors': 'error',
       'no-restricted-imports': [
         'error',
-        {
           patterns: [
             {
               group: ['@grafana/ui*', '*/Layout/*'],
