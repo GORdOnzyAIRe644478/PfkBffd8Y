@@ -30,7 +30,6 @@ Check Pull Request is another way to contribute.
 When you find any spelling mistakes or great content to supplement on the [official website of Rainbond](https://www.rainbond.io/), you can submit a pull request to the [Rainbond docs](https://github.com/goodrain/rainbond-docs).
 
 ## Compile the project
-
 Rainbond mainly consists of the following three projects.
 
 - [Rainbond-UI](https://github.com/goodrain/rainbond-ui)
