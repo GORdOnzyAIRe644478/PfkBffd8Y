@@ -93,7 +93,6 @@ After modifying a component, compile the component so that the latest component 
 Take the chaos component as an example and execute it in the main directory of rainbond code
 
 ```./release.sh chaos```
-
 #### Package and compile the complete installation package
 
 Compile the complete installation package, which is suitable for rebuilding the installation package after many source code changes. Execute in the main record of rainbond code
