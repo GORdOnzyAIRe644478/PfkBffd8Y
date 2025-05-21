@@ -89,7 +89,6 @@ After modifying a component, compile the component so that the latest component 
 **The compilation formula is as follows:**
 
 Take the chaos component as an example and execute it in the main directory of rainbond code
-
 ```./release.sh chaos```
 #### Package and compile the complete installation package
 
