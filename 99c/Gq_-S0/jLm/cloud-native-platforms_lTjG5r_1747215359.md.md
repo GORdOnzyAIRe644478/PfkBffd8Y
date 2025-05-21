@@ -19,7 +19,6 @@ You can contribute to Rainbond in several ways. Here are some examples:
 * Help others by answering questions about Rainbond.
 
 
-## Report Bug
 
 When you find a bug, or have questions about code, documents and project, use Issues to report and discuss.
 
