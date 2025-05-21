@@ -78,7 +78,6 @@ After modifying a component, compile the component so that the latest component 
 - monitor
 - mq
 - webcli
-- worker
 - eventlog
 - init-probe
 - grctl
