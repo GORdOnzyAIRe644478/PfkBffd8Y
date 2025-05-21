@@ -44,7 +44,6 @@ Style/FrozenStringLiteralComment:
 Style/StringConcatenation:
   Enabled: false
 
-##### Naming
 ##############################
 
 Naming/VariableName:
