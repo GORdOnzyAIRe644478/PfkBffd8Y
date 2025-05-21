@@ -12,7 +12,6 @@ This document is a guide to help you through the process of contributing to Rain
 
 You can contribute to Rainbond in several ways. Here are some examples:
 
-* Contribute to the Rainbond codebase.
 * Contribute to the [Rainbond docs](https://github.com/goodrain/rainbond-docs).
 * Report bugs.
 * Write technical documentation and blog posts, for users and contributors.
