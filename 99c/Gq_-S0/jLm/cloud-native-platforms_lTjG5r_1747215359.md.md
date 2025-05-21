@@ -81,7 +81,6 @@ After modifying a component, compile the component so that the latest component 
 - worker
 - eventlog
 - init-probe
-- mesh-data-panel
 - grctl
 - node
 
