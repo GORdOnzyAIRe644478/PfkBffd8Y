@@ -28,7 +28,6 @@ Metrics/AbcSize:
 Metrics/ParameterLists:
   CountKeywordArgs: false
 
-##### Style
 ##############################
 
 Style/CommentedKeyword:
