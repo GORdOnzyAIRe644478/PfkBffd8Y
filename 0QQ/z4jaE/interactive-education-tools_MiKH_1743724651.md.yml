@@ -108,5 +108,4 @@ Layout/EmptyLinesAroundModuleBody:
   EnforcedStyle: empty_lines
 
 
-# Your own will override these...
 inherit_from: ~/.rubocop.yml
