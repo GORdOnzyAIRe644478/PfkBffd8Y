@@ -39,7 +39,6 @@ Style/RescueStandardError:
 
 # someday we should adhere to this, but right now it'll break to much:
 Style/FrozenStringLiteralComment:
-  Enabled: false
 
 # foo = bar + 'string' is not a problem when bar is a Pathname
 # but rubocopy things that's  string concateation, and it isn't.
