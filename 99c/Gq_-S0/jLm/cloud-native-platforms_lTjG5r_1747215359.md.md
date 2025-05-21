@@ -49,7 +49,6 @@ Rainbond mainly consists of the following three projects.
 ### Business layer code compilation
 
 #### Compile front-end code image
-
 ```
 VERSION=v5.5.0-release ./build.sh
 ```
