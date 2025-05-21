@@ -34,7 +34,6 @@ Style/CommentedKeyword:
   Enabled: false
 
 Style/RescueStandardError:
-  EnforcedStyle: implicit
 
 # someday we should adhere to this, but right now it'll break to much:
 Style/FrozenStringLiteralComment:
