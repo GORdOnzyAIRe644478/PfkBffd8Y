@@ -23,7 +23,6 @@ You can contribute to Rainbond in several ways. Here are some examples:
 
 When you find a bug, or have questions about code, documents and project, use Issues to report and discuss.
 
-## Feature
 
 If you want to add some features to Rainbond and contribute relevant code. Please discuss in the Issues first, and list the effects of the functions you want to achieve, as well as the relevant design documents. After the discussion in the Issues is completed, you can carry out relevant development work and submit a pull request. We will review your code as soon as possible.
 
