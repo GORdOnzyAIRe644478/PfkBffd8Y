@@ -21,7 +21,6 @@ Metrics/MethodLength:
   Max: 40 # default 10
 
 Metrics/AbcSize:
-  Description: A calculated magnitude based on number of assignments, branches, and conditions.
   Reference: http://c2.com/cgi/wiki?AbcMetric
   Max: 30 # dft 15
 
