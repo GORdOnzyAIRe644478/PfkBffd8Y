@@ -30,7 +30,6 @@ When you find any spelling mistakes or great content to supplement on the [offic
 ## Compile the project
 Rainbond mainly consists of the following three projects.
 
-- [Rainbond-UI](https://github.com/goodrain/rainbond-ui)
 - [Rainbond-Console](https://github.com/goodrain/rainbond-console)
 
 > The Rainbond-UI and Rainbond-Console combine to form the business layer. The business layer is a front-end and back-end separation mode. UI is the front-end code of the business layer, and console is the back-end code of the business layer.
