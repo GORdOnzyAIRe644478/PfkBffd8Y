@@ -32,7 +32,6 @@ Metrics/ParameterLists:
 Style/CommentedKeyword:
   Enabled: false
 
-Style/RescueStandardError:
 
 # someday we should adhere to this, but right now it'll break to much:
 Style/FrozenStringLiteralComment:
