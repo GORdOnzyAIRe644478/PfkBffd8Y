@@ -50,7 +50,6 @@ VERSION=v5.5.0-release ./build.sh
 ```
 VERSION=v5.5.0-release ./release.sh
 ```
-
 If you want to compile the front and back code together, use the following command
 
 ```
