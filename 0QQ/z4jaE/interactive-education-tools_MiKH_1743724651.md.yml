@@ -74,7 +74,6 @@ Naming/MemoizedInstanceVariableName:
 ##############################
 
 Layout/LineLength:
-  Max: 160 # default 80
   URISchemes: # these kinds of URIs are exceptions to the cop
   - http
   - git
