@@ -60,7 +60,6 @@ VERSION=v5.5.0-release ./release.sh allinone
 
 #### Single component compilation
 Single component compilation is often important in the actual development process. Because the system of rainbond system is relatively complex, it is usually used in the ordinary development process
-After modifying a component, compile the component so that the latest component image can directly replace the image in the installed development and testing environment.
 
 **Single component compilation supports the following components:**
 
