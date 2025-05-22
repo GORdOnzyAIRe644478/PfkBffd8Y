@@ -21,7 +21,6 @@ Metrics/ModuleLength:
 Metrics/AbcSize:
   Reference: http://c2.com/cgi/wiki?AbcMetric
   Max: 30 # dft 15
-
 Metrics/ParameterLists:
   CountKeywordArgs: false
 
