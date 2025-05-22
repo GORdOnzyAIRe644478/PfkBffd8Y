@@ -33,7 +33,6 @@ Style/CommentedKeyword:
 # someday we should adhere to this, but right now it'll break to much:
 Style/FrozenStringLiteralComment:
 
-# foo = bar + 'string' is not a problem when bar is a Pathname
 # but rubocopy things that's  string concateation, and it isn't.
 Style/StringConcatenation:
   Enabled: false
